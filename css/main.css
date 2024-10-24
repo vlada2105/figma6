@@ -1225,6 +1225,9 @@ a:hover {
     .feedbacks__item {
         width: 340px;
     }
+    .feedbacks__item:nth-child(3):after {
+        right: 0px;
+    }
     /* expert */
     .expert__textblock {
         padding-top: 168px;
@@ -1265,7 +1268,7 @@ a:hover {
     }
     /* expert */
     .expert__img {
-        left: 160px;
+        left: 100px;
     }
     /* footer */
     .footer__menu {
