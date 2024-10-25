@@ -682,6 +682,9 @@ a:hover {
     }
 }
 @media screen and (max-width:1199px) {
+    h1 {
+        text-wrap: balance;
+    }
     .main__info {
         max-width: 500px;
     }
