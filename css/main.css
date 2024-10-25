@@ -1129,6 +1129,9 @@ a:hover {
     .feedbacks__preview h2, .feedbacks__preview p {
         max-width: fit-content;
     }
+    .feedbacks__item-content {
+        margin-bottom: 30px;
+    }
     /* expert */
     .expert__inner {
         flex-direction: column;
